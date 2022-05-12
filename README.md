@@ -2,8 +2,7 @@
 
 - 🔭 Hoje estudando ciência de dados na digital house.
 - 🌱 Estudando Ciência da computação.
-- 📫 Contate-me no e-mail: thiagoferrofaustino@gmail.com
-- 😄 Pronouns: Ele.
+- 😄 Pronouns: [Ele]
 
 <div align="center">
   <a href="https://github.com/faustinothiagos">
