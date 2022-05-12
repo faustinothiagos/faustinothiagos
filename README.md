@@ -21,6 +21,7 @@
    <img align="center" alt="Thiago-Numpy" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
    <img align="center" alt="Thiago-Pandas" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
    <img align="center" alt="Thiago-Anaconda" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">
+   <img align="center" alt="Thiago-Docker" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 
 </div>
   
