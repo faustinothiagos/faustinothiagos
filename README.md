@@ -1,6 +1,6 @@
 ### Olá! Eu sou faustinothiagos
 
-- 🔭 Hoje trabalho com ciência de dados.
+- 🔭 Hoje estudando ciência de dados na digital house.
 - 🌱 Estudando Ciência da computação.
 - 📫 Contate-me no e-mail: thiagoferrofaustino@gmail.com
 - 😄 Pronouns: Ele.
