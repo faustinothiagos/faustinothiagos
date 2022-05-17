@@ -1,7 +1,9 @@
 ### Olá! Eu sou faustinothiagos
 
-- 🔭 Hoje estudando ciência de dados na digital House.
+- 🔭 Hoje estudando ciência de dados na digital House 💻
 - 🌱 Estudando Ciência da computação.
+- ☢️ Formação em Física.
+- ⚙️ Formação em Engenharia civil.
 - 😄 Pronouns: [Ele]
 
 <div align="center">
