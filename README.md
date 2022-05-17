@@ -1,6 +1,6 @@
 ### Olá! Eu sou faustinothiagos
 
-- 🔭 Hoje estudando ciência de dados na digital house.
+- 🔭 Hoje estudando ciência de dados na digital House.
 - 🌱 Estudando Ciência da computação.
 - 😄 Pronouns: [Ele]
 
@@ -23,8 +23,11 @@
    <img align="center" alt="Thiago-Anaconda" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">
    <img align="center" alt="Thiago-Docker" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
    <img align="center" alt="Thiago-jupter" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-    <img align="center" alt="Thiago-Tensor" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg">
-
+   <img align="center" alt="Thiago-Tensor" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg">
+   <img align="center" alt="Thiago-Ubuntu" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+   <img align="center" alt="Thiago-Matlab" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+   <img align="center" alt="Thiago-D3" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg">
+    
 </div>
   
   ##
