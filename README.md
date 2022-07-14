@@ -1,6 +1,6 @@
 ### Olá! Eu sou faustinothiagos
 
-- 🔭 Hoje estudando Data Science na digital House 💻
+- 🔭 Hoje estudando Data Science & Machine Learning na digital House 💻
 - 🌱 Estudando Ciência da computação 🚧
 - ☢️ Formação em Física.
 - ⚙️ Formação em Engenharia civil.
