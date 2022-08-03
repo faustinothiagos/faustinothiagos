@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estudando Data Science & Machine Learning na Digital House 💻
 - 🌱 Estudando Ciência da computação 🚧
-- ☢️ Superior em tecnologia em Data Science.
+- ☢️ Superior em Tecnologia em Data Science.
 - ⚙️ Formação em Engenharia civil.
 - 😄 Pronouns: [Ele]
 
