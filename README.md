@@ -4,7 +4,7 @@
 - 🌱 Cursando análise de dados na EBAC
 - 🌱 Estudando Ciência da computação 🚧
 - ☢️ Superior de Tecnologia em Data Science.
-- ⚙️ Formação em Fsica.
+- ⚙️ Formação em Fisica.
 - 😄 Pronouns: [Ele]
 
 <div align="center">
