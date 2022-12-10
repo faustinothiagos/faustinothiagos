@@ -1,4 +1,4 @@
-### Olá! Eu sou faustinothiagos
+### Olá! Eu sou Thiago F. Faustino
 
 - 🔭 Curso de Data Science & Machine Learning na Digital House 💻
 - 🌱 Cursando análise de dados na EBAC
