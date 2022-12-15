@@ -1,6 +1,6 @@
 ### Olá! Eu sou Thiago F. Faustino
 
-- 🌱 Estudando Ciência da computação(Estácio) 🚧 💻
+- 🌱 Estudando Ciência da computação 🚧 💻
 - 🌱 Cursando análise de dados na EBAC
 - 🔭 Curso de Data Science & Machine Learning na Digital House 💻
 - ☢️ Superior de Tecnologia em Data Science.
