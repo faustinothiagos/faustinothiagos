@@ -1,10 +1,9 @@
 ### Olá! Eu sou Thiago F. Faustino
 
-- 🌱 Estudando Ciência da computação 🚧 💻
+- 🌱 Estudando Ciência da computação(Estacio) 🚧 💻
 - 🌱 Cursando análise de dados na EBAC
-- 🔭 Curso de Data Science & Machine Learning na Digital House 💻
-- ☢️ Superior de Tecnologia em Data Science.
-- ⚙️ Formação em Fisica(UFAL)
+- 🔭 Formação Data Science & Machine Learning na Digital House 💻
+- ⚙️  Formação em Fisica(UFAL)
 - 😄 Pronouns: [Ele]
 
 <div align="center">
