@@ -31,6 +31,7 @@
    <img align="center" alt="Thiago-Ubuntu" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
    <img align="center" alt="Thiago-Matlab" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
    <img align="center" alt="Thiago-D3" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg">
+    <img align="center" alt="Thiago-R" height="30" width="50" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
     
 </div>
   
