@@ -1,4 +1,4 @@
-### Olá! Eu sou Thiago F. Faustino
+### Olá! Eu sou Thiago Faustino ✋🏻
 
 - 🌱 Estudando Ciência da computação(Estacio) 🚧 💻
 - 🌱 Cursando análise de dados na EBAC
