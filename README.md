@@ -32,6 +32,7 @@
   <img align="center" alt="Thiago-Tensor" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg">
   <img align="center" alt="Thiago-Ubuntu" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
    <img align="center" alt="Thiago-Debian" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg">
+    <img align="center" alt="Thiago-Red" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg">
    <img align="center" alt="Thiago-Matlab" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
    <img align="center" alt="Thiago-R-studio" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
     <img align="center" alt="Thiago-google-cloud" height="90" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
