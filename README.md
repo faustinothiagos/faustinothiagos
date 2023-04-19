@@ -38,6 +38,7 @@
    <img align="center" alt="Thiago-Matlab" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
    <img align="center" alt="Thiago-R-studio" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
     <img align="center" alt="Thiago-google-cloud" height="90" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
+   
     
 </div>
   
